@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EmployeeDataEntities-Web.config Connection String" description="EmployeeDataEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/EmployeeDataModel.csdl|res://*/EmployeeDataModel.ssdl|res://*/EmployeeDataModel.msl;provider=System.Data.SqlClient;provider connection string='data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=&quot;C:\Users\nikhil.gumulwar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\Data.mdf&quot;;integrated security=True;connect timeout=30;MultipleActiveResultSets=True;App=EntityFramework'" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\nikhil\.gumulwar\\documents\\visual\ studio\ 2015\\Projects\\WebApi\\WebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeeDataEntities']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\nikhil\.gumulwar\\documents\\visual\ studio\ 2015\\Projects\\WebApi\\WebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

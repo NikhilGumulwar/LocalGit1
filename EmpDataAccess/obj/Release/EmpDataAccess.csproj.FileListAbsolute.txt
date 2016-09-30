@@ -1,0 +1,10 @@
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\bin\Release\EmpDataAccess.dll.config
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\bin\Release\EmpDataAccess.dll
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\bin\Release\EmpDataAccess.pdb
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\bin\Release\EntityFramework.dll
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\bin\Release\EntityFramework.xml
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\obj\Release\EmpDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\obj\Release\EmpDataAccess.dll
+C:\Users\nikhil.gumulwar\documents\visual studio 2015\Projects\WebApi\EmpDataAccess\obj\Release\EmpDataAccess.pdb
